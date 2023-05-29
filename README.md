@@ -1,4 +1,4 @@
-# Employee Recognition Platfrom
+# Employee Recognition Platform
 
 ## Setup
 
